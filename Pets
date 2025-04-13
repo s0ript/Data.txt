@@ -1,0 +1,4 @@
+return {
+    ["Neon Unicorn"] = 1200,
+    ["Mega Neon Unicorn"] = 4500
+}
